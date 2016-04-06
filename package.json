@@ -1,0 +1,19 @@
+{
+  "name": "node-hashcash",
+  "description": "HashCash module for Node and the Browser.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Bachar Wehbi",
+    "email": "me@bachwehbi.net"
+  },
+  "homepage": "https://github.com/bachwehbi/hashcash",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bachwehbi/hashcash.git"
+  },
+  "engines": {
+    "node": ">=0.10.40",
+    "npm": ">=2.0.0"
+  },
+  "license": "MIT"
+}
